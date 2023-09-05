@@ -24,15 +24,11 @@ Dou you want to add more pages, add `else if` statements.
 I use the `webkitSpeechRecognition` javascript library for implement this and it is a built in function. You can run this only in the `Chrome`, `Edge` and `Firefox` only.
 
 ____
-<p align="center">
-    <a href="https://github.com/UltiRequiem/Voice-Navigation-Assistant-for-Websites/blob/main/LICENSE">
-      <img alt="License: MIT" src="https://black.readthedocs.io/en/stable/_static/license.svg">
-    </a
-    &nbsp;
-    <a href="https://hits.sh/github.com/DasunThathsara/Voice-Navigation-Assistant-for-Websites/">
-      <img alt="Hits" src="https://hits.sh/github.com/DasunThathsara/Voice-Navigation-Assistant-for-Websites.svg?label=Views"/>
-    </a>
-    <a href="https://github.com/DasunThathsara/Voice-Navigation-Assistant-for-Websites/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-  </p>
+
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+<a href="https://hits.sh/github.com/DasunThathsara/Voice-Navigation-Assistant-for-Websites/">
+    <img alt="Hits" src="https://hits.sh/github.com/DasunThathsara/Voice-Navigation-Assistant-for-Websites.svg?label=Views"/>
+</a>
+<a href="https://github.com/DasunThathsara/Voice-Navigation-Assistant-for-Websites/actions">
+    <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+</a>
